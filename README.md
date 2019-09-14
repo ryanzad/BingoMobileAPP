@@ -1,1 +1,1 @@
-# BingoMobileAPP
+# Bingo IOS Mobile Application
